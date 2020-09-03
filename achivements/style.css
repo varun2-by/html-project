@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: lightsalmon;
+}
+.achive{
+    padding-left: 25px;
+    font-family: 'Libre Baskerville', serif;
+}
+.heading{
+    font-size: 40px;
+    /* padding-left: 30%; */
+}
+.intro{
+    /* padding-left: 12%; */
+    font-size: 20px;
+}
+.achivement1{
+    margin-left: 135px;
+    width: 80%;
+    padding-top: 5%;
+}
+.img-left1{
+    height: 181px;
+    width: 188px;
+    border-radius: 100%;
+    /* position: absolute; */
+    float: left;
+    /* top: 44%;
+    left: 15%; */
+}
+
+.right-para-1{
+    font-size: 20px;
+    /* padding-left: 33%; */
+    /* width: 680px; */
+}
+.achivement2{
+    margin-left: 135px;
+    width: 80%;
+    padding-top: 8%;
+}
+.img-right1{
+    
+    height: 165px;
+    width: 166px;
+    border-radius: 100%;
+    /* position: absolute; */
+    float: right;
+    /* top: 122%;
+    left: 60%; */
+}
+.left-para-1{
+    padding-right: 80px;
+    font-size: 20px;
+    /* padding-left: 8%; */
+    /* width: 680px; */
+}
+.achivement3{
+    margin-left: 135px;
+    width: 80%;
+    padding-top: 11%;
+}
+.img-left2{
+    height: 179px;
+    width: 194px;
+    border-radius: 100%;
+    /* position: absolute; */
+    float: left;
+    /* top: 206%;
+    left: 14%; */
+}
+.right-para-2{
+    font-size: 20px;
+    /* padding-left: 33%; */
+    /* width: 680px; */
+}
+.achivement4{
+    margin-left: 135px;
+    width: 80%;
+    padding-top: 10%;
+}
+.img-right2{
+    height: 180px;
+    width: 191px;
+    border-radius: 100%;
+    /* position: absolute; */
+    float: right;
+    /* top: 288%;
+    left: 59%; */
+}
+.left-para-2{
+    padding-right: 80px;
+    font-size: 20px;
+    /* padding-left: 8%; */
+    /* width: 680px; */
+}
+.achivement5{
+    margin-left: 135px;
+    width: 80%;
+    padding-top: 10%;
+}
+.img-left3{
+    height: 179px;
+    width: 205px;
+    border-radius: 100%;
+    /* position: absolute; */
+    float: left;
+    /* top: 372%;
+    left: 13%; */
+}
+.right-para-3{
+    font-size: 20px;
+    /* padding-left: 33%; */
+    /* width: 680px; */
+}
+@media (max-width:1208px) {
+    .achivement1{
+        padding-bottom: 50px;
+        margin-left: 30px;
+    }
+    .achivement2{
+        padding-bottom: 50px;
+        margin-left: 40px;
+    }
+    .achivement3{
+        padding-bottom: 50px;
+        margin-left: 30px;
+    }
+    .achivement4{
+        padding-bottom: 50px;
+        margin-left: 30px;
+    }
+    .achivement5{
+        padding-bottom: 50px;
+        margin-left: 30px;
+    }
+    .heading{
+        text-align: center;
+    }
+  .img-left1{
+      padding-bottom: 10px;
+      float: none;
+  }
+  .right-para-1{
+
+  }
+  .img-right1{
+    padding-bottom: 10px;
+      float: none;
+  }
+  .left-para-1{
+      padding-right: 0;
+  }
+  .img-left2{
+    padding-bottom: 10px;
+      float: none;
+  }
+  .right-para-2{
+
+  }
+  .img-right2{
+    padding-bottom: 10px;
+      float: none;
+  }
+  .left-para-2{
+      padding-right: 0;
+  }
+  .img-left3{
+    padding-bottom: 10px;
+      float: none;
+  }
+  .right-para-3{
+
+  }
+}
